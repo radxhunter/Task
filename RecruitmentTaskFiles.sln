@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentTaskFiles.Console", "RecruitmentTaskFiles.Console\RecruitmentTaskFiles.Console.csproj", "{76C0F24E-9CE4-4864-8D9A-86650AA3CEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecruitmentTaskFiles.Test", "RecruitmentTaskFiles.Test\RecruitmentTaskFiles.Test.csproj", "{2375046B-657F-4311-B898-3D0741F2AE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C0F24E-9CE4-4864-8D9A-86650AA3CEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C0F24E-9CE4-4864-8D9A-86650AA3CEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C0F24E-9CE4-4864-8D9A-86650AA3CEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C0F24E-9CE4-4864-8D9A-86650AA3CEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2375046B-657F-4311-B898-3D0741F2AE88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2375046B-657F-4311-B898-3D0741F2AE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2375046B-657F-4311-B898-3D0741F2AE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2375046B-657F-4311-B898-3D0741F2AE88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B944C982-9AE0-4A6B-8160-B1DBD25A1A28}
+	EndGlobalSection
+EndGlobal
